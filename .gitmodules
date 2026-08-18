@@ -1,0 +1,3 @@
+[submodule "geojson_borders"]
+	path = external/geojson_borders
+	url = https://github.com/georgique/world-geojson.git
